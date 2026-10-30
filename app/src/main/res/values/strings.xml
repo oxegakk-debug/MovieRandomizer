@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Randomizer</string>
+    <string name="title">Movie Randomizer</string>
+    <string name="initial_message">Нажми кнопку, чтобы выбрать фильм</string>
+    <string name="random_button">Выбрать фильм</string>
+    <string name="reset_button">Сбросить</string>
+    <string name="no_movies">Все фильмы уже показаны!</string>
+
+    <string-array name="movies">
+        <item>Бойцовский клуб</item>
+        <item>Матрица</item>
+        <item>Интерстеллар</item>
+        <item>Начало</item>
+        <item>Бегущий по лезвию 2049</item>
+        <item>Остров проклятых</item>
+        <item>Семь</item>
+        <item>Зелёная миля</item>
+        <item>Грань будущего</item>
+        <item>Леон</item>
+    </string-array>
+</resources>
