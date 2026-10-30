@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Randomizer</string>
+    <string name="title">Movie Randomizer</string>
+    <string name="initial_message">Press the button to choose a movie</string>
+    <string name="random_button">Choose a movie</string>
+    <string name="reset_button">Reset</string>
+    <string name="no_movies">All movies have been shown!</string>
+
+    <string-array name="movies">
+        <item>Fight Club</item>
+        <item>The Matrix</item>
+        <item>Interstellar</item>
+        <item>Inception</item>
+        <item>Blade Runner 2049</item>
+        <item>Shutter Island</item>
+        <item>Se7en</item>
+        <item>The Green Mile</item>
+        <item>Edge of Tomorrow</item>
+        <item>Léon: The Professional</item>
+    </string-array>
+</resources>
